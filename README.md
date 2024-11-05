@@ -1,16 +1,13 @@
-# fetching_api_data
+<h1>Task: Fetching API Data and Displaying in a ListView with Search Filter
+</h1>
 
-A new Flutter project.
+<h5>Purpose:</h5>
+<p>This task fetches data from an API, displays it in a ListView, and includes a real-time search filter.</p>
 
-## Getting Started
+Requirements:
+<ul>
+  <li>Dependencies: http package for API requests.</li>
+  <li>API: Uses https://jsonplaceholder.typicode.com for data fetching.</li>
+  <li>Flutter SDK: Ensure Flutter is installed.</li>
+</ul>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
